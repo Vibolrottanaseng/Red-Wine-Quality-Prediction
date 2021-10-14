@@ -4,7 +4,11 @@ The ideas of the topic pop up in my head when i was going to a groceries store. 
 
 Important Libraries documentation:
 https://matplotlib.org/stable/index.html
+
 https://seaborn.pydata.org/
+
 https://scikit-learn.org/stable/
+
 https://pandas.pydata.org/
+
 https://numpy.org/
